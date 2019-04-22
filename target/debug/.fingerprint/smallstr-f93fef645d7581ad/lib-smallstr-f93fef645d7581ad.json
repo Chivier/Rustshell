@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[\"default\", \"smallvec\", \"std\"]","target":16836181653610829881,"profile":11870183705523825133,"path":14910456870536648943,"deps":[["smallvec v0.6.9","smallvec",8257058530668938092]],"local":[{"Precalculated":"0.1.0"}],"rustflags":[],"edition":"Edition2015"}

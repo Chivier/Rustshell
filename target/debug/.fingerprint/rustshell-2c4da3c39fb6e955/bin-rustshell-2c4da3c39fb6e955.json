@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[]","target":6930295820695023512,"profile":12557715213357684991,"path":1036222786711178230,"deps":[["whoami v0.2.4","whoami",15164470554025315846]],"local":[{"MtimeBased":[[1555653505,624807328],".fingerprint/rustshell-2c4da3c39fb6e955/dep-bin-rustshell-2c4da3c39fb6e955"]}],"rustflags":[],"edition":"Edition2018"}

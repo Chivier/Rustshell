@@ -1,0 +1,1 @@
+{"rustc":14715343205281380114,"features":"[]","target":3373427455624871356,"profile":11870183705523825133,"path":6095348001256827177,"deps":[["dirs v1.0.5","dirs",10716447224492164065],["mortal v0.1.5","mortal",1758357685952838802]],"local":[{"Precalculated":"0.5.4"}],"rustflags":[],"edition":"Edition2015"}

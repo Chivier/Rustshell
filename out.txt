@@ -1,0 +1,15 @@
+Cargo.lock
+Cargo.toml
+out.txt
+src
+target
+Cargo.lock
+Cargo.toml
+out.txt
+src
+target
+Cargo.lock
+Cargo.toml
+out.txt
+src
+target
